@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ali (aka ylaxor)
-- 👀 I’m interested in deep learning techniques and their applications to Natural Language, Audio & Image processing, and, more broadly, in any creative applications of Artifical Intelligence.
+- 👀 I’m interested in deep learning techniques and their applications to Natural Language, Image & Audio processing, and, more broadly, in any creative applications of Artifical Intelligence.
 - 💞️ I’m looking to share some of my work & collaborate on yours 
 - 📫 Reach me at: contact@alincibi.me, or head to: https://www.alincibi.me for pointers to my recent work.
 
