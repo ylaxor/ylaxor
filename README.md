@@ -1,7 +1,4 @@
-- 👋 My name is Ali.
-- 👀  I’m a data science engineer with a data-oriented analytical mind and a strong passion for machine learning, and specifically for the deep learning approach to (AI) and its applications to automatic natural language, audio and image signals processing.
-- 💞️ I’m looking to share some of my work & collaborate on yours.
-- 📫 Reach me at: contact@alincibi.me, or head to my personal website at: https://www.alincibi.me for more organized pointers to my recent work.
+Greetings! I'm Ali, a data scientist who possesses a profound ardor for machine learning and a data-centric, analytical perspective. Presently, I'm pursuing a doctoral degree, and my research interests are inclined towards utilizing machine learning algorithms for inferring everyday human behavior through non-invasive sensorial data modeling. Moreover, I'm captivated by the realm of deep learning and its potential in interpreting natural signals such as language, image, and audio. 
 
 <!---
 ylaxor/ylaxor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
