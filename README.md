@@ -1,4 +1,4 @@
-Greetings! I'm Ali, a data scientist who possesses a profound ardor for machine learning and a data-centric, analytical perspective. Presently, I'm pursuing a doctoral degree, and my research interests are inclined towards utilizing machine learning algorithms for inferring everyday human behavior through non-invasive sensorial data modeling. Moreover, I'm captivated by the realm of deep learning and its potential in interpreting natural signals such as language, image, and audio. 
+Welcome to the home page of Ali Ncibi! I'm a human software developer with background in IT and CS (see Curriculum Vitae). I am currently pursuing a Ph.D. in computer science at the STIC Doctoral School University of Paris-Saclay, France. My research interests include Machine Learning (ML) and Internet of Things (IoT). It revolves around the development and evaluation of data-driven solutions for the task of human activity recognition using non-intrusive indoor sensors (see Thesis). Personal website: https://wp.alincibi.me
 
 <!---
 ylaxor/ylaxor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
